@@ -9,3 +9,7 @@ html, body {
 .btn:hover {
     cursor: pointer;
 }
+
+#landingtext {
+    margin-top: 15%;
+}
