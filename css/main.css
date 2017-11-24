@@ -13,3 +13,7 @@ html, body {
 #landingtext {
     margin-top: 15%;
 }
+
+#landingtext h1 {
+    text-align: center;
+}
