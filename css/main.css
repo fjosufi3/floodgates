@@ -2,6 +2,14 @@ html, body {
     font-family: "Avenir Next";
 }
 
+main.background {
+    background-image: url("../img/background.jpg");
+    background-size: cover;
+    max-width: 100%;
+    height: auto;
+    background-position: center;
+}
+
 #login {
     margin-right: 5px;
 }
@@ -12,6 +20,7 @@ html, body {
 
 #landingtext {
     margin-top: 15%;
+    color: aliceblue;
 }
 
 #landingtext h1 {
